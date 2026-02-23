@@ -9,7 +9,7 @@ The Online Voting System is a modern web-based platform designed to facilitate s
 ## 🏗️ Project Vision
 
 In an era of digital transformation, the democratic process should be no exception. This project envisions a world where:
-- **Every vote is counted**: Automated auditing and secure backend layers.
+- **Every vote is counted**: Automated Auditing and secure backend layers.
 - **Participation is effortless**: Beautiful, intuitive interfaces that lower the barrier to entry.
 - **Transparency is absolute**: Open-source architecture that can be verified by anyone.
 

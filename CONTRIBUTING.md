@@ -10,9 +10,9 @@ Thank you for your interest in contributing to the Online Voting System! We welc
 - [Code of Conduct](#code-of-conduct)
 
 ## How to Contribute
-1. **Report Bugs**: Use the GitHub issues tracker to report any bugs you find.
-2. **Suggest Features**: Have an idea? Open an issue to discuss it.
-3. **Submit Code**: Check for open issues or create your own, then follow the development workflow below.
+1. **Report bugs**: Use the GitHub issues tracker to report any bugs you find.
+2. **Suggest features**: Have an idea? Open an issue to discuss it.
+3. **Submit code**: Check for open issues or create your own, then follow the development workflow below.
 
 ## Development Workflow
 1. Fork the repository.
